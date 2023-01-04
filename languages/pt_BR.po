@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MiniMag\n"
+"POT-Creation-Date: 2022-12-29 14:11-0300\n"
+"PO-Revision-Date: 2022-12-29 14:15-0300\n"
+"Last-Translator: \n"
+"Language-Team: Lucas\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/dev\n"
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs-parser/index.js:367
+#: assets/dev/node_modules/yargs-parser/index.js:302
+#, javascript-format
+msgid "Not enough arguments following: %s"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs-parser/index.js:541
+#: assets/dev/node_modules/yargs-parser/index.js:450
+#, javascript-format
+msgid "Invalid JSON config file: %s"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:92
+msgid "Positionals:"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:192
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:194
+msgid "command"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:203
+#: assets/dev/node_modules/yargs/lib/usage.js:169
+msgid "Commands:"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:223
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:458
+#: assets/dev/node_modules/yargs/lib/usage.js:177
+#: assets/dev/node_modules/yargs/lib/usage.js:407
+msgid "default:"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:225
+#: assets/dev/node_modules/yargs/lib/usage.js:179
+msgid "aliases:"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:288
+#: assets/dev/node_modules/yargs/lib/usage.js:241
+msgid "boolean"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:289
+#: assets/dev/node_modules/yargs/lib/usage.js:242
+msgid "count"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:290
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:291
+#: assets/dev/node_modules/yargs/lib/usage.js:243
+#: assets/dev/node_modules/yargs/lib/usage.js:244
+msgid "string"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:292
+#: assets/dev/node_modules/yargs/lib/usage.js:245
+msgid "array"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:293
+#: assets/dev/node_modules/yargs/lib/usage.js:246
+msgid "number"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:297
+#: assets/dev/node_modules/yargs/lib/usage.js:250
+msgid "required"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:298
+#: assets/dev/node_modules/yargs/lib/usage.js:251
+msgid "choices:"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:317
+#: assets/dev/node_modules/yargs/lib/usage.js:270
+msgid "Examples:"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/usage.js:436
+#: assets/dev/node_modules/yargs/lib/usage.js:385
+msgid "generated-value"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/validation.js:29
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/validation.js:52
+#: assets/dev/node_modules/yargs/lib/validation.js:26
+#: assets/dev/node_modules/yargs/lib/validation.js:49
+#, javascript-format
+msgid "Not enough non-option arguments: got %s, need at least %s"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/validation.js:40
+#: assets/dev/node_modules/yargs/lib/validation.js:37
+#, javascript-format
+msgid "Too many non-option arguments: got %s, maximum of %s"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/validation.js:147
+#: assets/dev/node_modules/yargs/lib/validation.js:185
+msgid "Invalid values:"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/validation.js:150
+#: assets/dev/node_modules/yargs/lib/validation.js:188
+#, javascript-format
+msgid "Argument: %s, Given: %s, Choices: %s"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/validation.js:180
+#: assets/dev/node_modules/yargs/lib/validation.js:218
+#, javascript-format
+msgid "Argument check failed: %s"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/validation.js:256
+#: assets/dev/node_modules/yargs/lib/validation.js:283
+msgid "Implications failed:"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/validation.js:295
+#: assets/dev/node_modules/yargs/lib/validation.js:313
+#, javascript-format
+msgid "Arguments %s and %s are mutually exclusive"
+msgstr ""
+
+#: assets/dev/node_modules/sass-graph/node_modules/yargs/lib/validation.js:316
+#: assets/dev/node_modules/yargs/lib/validation.js:332
+#, javascript-format
+msgid "Did you mean %s?"
+msgstr ""
+
+#: header.php:72
+msgid "Did you see?"
+msgstr "Você já viu?"
+
+#: header.php:105
+msgid "FOLLOW:"
+msgstr "SIGA:"
+
+#: searchform.php:2
+msgid "Type something"
+msgstr "Digite alguma coisa"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Pesquisar"
